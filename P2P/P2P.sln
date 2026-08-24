@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2P", "P2P.csproj", "{5E53BB96-E10B-4266-AA89-F8C350EC325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{5469647E-2A15-49A1-AC2D-1DB0E5B7FC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameResolver", "..\NameResolver\NameResolver.csproj", "{2AEAA242-813D-40C9-8EFC-0E754FFD4BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E53BB96-E10B-4266-AA89-F8C350EC325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E53BB96-E10B-4266-AA89-F8C350EC325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E53BB96-E10B-4266-AA89-F8C350EC325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E53BB96-E10B-4266-AA89-F8C350EC325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5469647E-2A15-49A1-AC2D-1DB0E5B7FC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5469647E-2A15-49A1-AC2D-1DB0E5B7FC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5469647E-2A15-49A1-AC2D-1DB0E5B7FC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5469647E-2A15-49A1-AC2D-1DB0E5B7FC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEAA242-813D-40C9-8EFC-0E754FFD4BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEAA242-813D-40C9-8EFC-0E754FFD4BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEAA242-813D-40C9-8EFC-0E754FFD4BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEAA242-813D-40C9-8EFC-0E754FFD4BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
