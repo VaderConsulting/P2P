@@ -19,6 +19,10 @@ This is a Visual Studio C# solution that experiments with Windows Peer Name Reso
 
 Open `P2P/P2P.sln` in Visual Studio. PNRP/peer networking must be available on the machine for NameResolver to resolve names.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `P2P`). NameResolver follows the MSDN P2P blog sample for a private PNRP global cloud. Assembly copyright 2013.
