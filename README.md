@@ -1,6 +1,6 @@
 # P2P
 
-This is a Visual Studio C# solution that experiments with Windows Peer Name Resolution Protocol (PNRP). NameResolver is a console program that takes a PeerName on the command line, resolves it on the network, and prints comments, data, and IP endpoints (pattern from the MSDN P2P blog). The P2P class library is still an empty stub. It is Dave Robinson's working copy from Historical Dev.
+This is a Visual Studio C# solution that experiments with Windows Peer Name Resolution Protocol (PNRP). NameResolver is a console program that takes a PeerName on the command line, resolves it on the network, and prints comments, data, and IP endpoints (pattern from the MSDN P2P blog). The P2P class library is still an empty stub. It is my working copy from Historical Dev.
 
 **Source last updated:** 2013-09-21  
 **Language:** C#  
